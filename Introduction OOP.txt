@@ -7,4 +7,4 @@
 *We will take a example:Student-details
 	[Name,age,registration no,Department etc...]-Proterties
 
-	[Slepping,eating,reading,listening music etc...]-behaviour
+	
